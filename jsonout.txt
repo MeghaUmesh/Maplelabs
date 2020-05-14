@@ -1,0 +1,615 @@
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "info"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "alert"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "debug"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha",
+	"loglevel" : "TRACE"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha",
+	"loglevel" : "FATAL"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha",
+	"loglevel" : "FATAL"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "info"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "info"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "alert"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "debug"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "alert"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha",
+	"loglevel" : "TRACE"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha",
+	"loglevel" : "DEBUG"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha",
+	"loglevel" : "ALERT"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha",
+	"loglevel" : "ALERT"
+}
+{
+	"Message" : "",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "debug"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha",
+	"loglevel" : "FATAL"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "alert"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "debug"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha",
+	"loglevel" : "FATAL"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha",
+	"loglevel" : "INFO"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha",
+	"loglevel" : "DEBUG"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "info"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha",
+	"loglevel" : "INFO"
+}
+{
+	"Message" : "",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "debug"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "info"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha",
+	"loglevel" : "ALERT"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha",
+	"loglevel" : "DEBUG"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "alert"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha",
+	"loglevel" : "FATAL"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "info"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha",
+	"loglevel" : "FATAL"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha",
+	"loglevel" : "WARN"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha",
+	"loglevel" : "FATAL"
+}
+{
+	"Message" : "",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "alert"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha",
+	"loglevel" : "FATAL"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha",
+	"loglevel" : "FATAL"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "debug"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "alert"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "alert"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "debug"
+}
+{
+	"Message" : "",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "info"
+}
+{
+	"Message" : "",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha",
+	"loglevel" : "ALERT"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "info"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "debug"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "info"
+}
+{
+	"Message" : "",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha",
+	"loglevel" : "NOTICE"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "info"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha",
+	"loglevel" : "WARN"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha",
+	"loglevel" : "FATAL"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "info"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha",
+	"loglevel" : "WARN"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha",
+	"loglevel" : "ALERT"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "alert"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_8.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_6.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_4.log",
+	"hostname" : "megha",
+	"loglevel" : "debug"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha",
+	"loglevel" : "DEBUG"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "trace"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_2.log",
+	"hostname" : "megha",
+	"loglevel" : "debug"
+}
+{
+	"Message" : "  [RMCommunicator Allocator] org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator: IN CONTACTING RM",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha",
+	"loglevel" : "INFO"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "alert"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_0.log",
+	"hostname" : "megha",
+	"loglevel" : "warn"
+}
+{
+	"Message" : "",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha"
+}
+{
+	"Message" : "",
+	"filename" : "/home/megha/unipar/log_simulator/log_3.log",
+	"hostname" : "megha"
+}
+{
+	"Message" : "  [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using var= mapred newApiCommitter.",
+	"filename" : "/home/megha/unipar/log_simulator/log_1.log",
+	"hostname" : "megha",
+	"loglevel" : "NOTICE"
+}
+{
+	"Message" : "  [LeaseRenewer:msrabi@msra-sa-41:9000] org.apache.hadoop.hdfs.LeaseRenewer: Failed to renew lease",
+	"filename" : "/home/megha/unipar/log_simulator/log_9.log",
+	"hostname" : "megha",
+	"loglevel" : "FATAL"
+}
